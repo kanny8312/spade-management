@@ -2,7 +2,7 @@ streamlit==1.32.0
 supabase==2.3.4
 pandas
 plotly==5.18.0
-Pillow==10.2.0
+Pillow
 httpx==0.25.2
 gotrue==2.3.4
 postgrest==0.16.6
