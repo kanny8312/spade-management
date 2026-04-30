@@ -1,0 +1,7 @@
+streamlit
+supabase
+pandas
+plotly
+Pillow
+openpyxl
+httpx
